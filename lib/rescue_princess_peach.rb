@@ -1,3 +1,3 @@
-def rescue_princess_peach
-
+def rescue_princess_peach(message)
+  puts phrase = message
 end
